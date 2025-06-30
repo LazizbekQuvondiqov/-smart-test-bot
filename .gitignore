@@ -1,0 +1,11 @@
+# .gitignore fayli ichiga qo'shiladigan qatorlar
+
+# Maxfiy ma'lumotlar fayli
+.env
+
+# Ma'lumotlar bazasi
+*.db
+*.sqlite3
+
+# Python generatsiya qiladigan papkalar
+__pycache__/
